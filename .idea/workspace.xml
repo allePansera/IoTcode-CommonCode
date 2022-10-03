@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d60481b3-9a5e-4ba8-a512-f1bfa6e551bc" name="Changes" comment="Loading file content">
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/Geolocation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/ActuatorDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/ActuatorDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/MobileDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/MobileDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/SensorDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unimore/iot/lab/java/SensorDevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +64,7 @@
       <updated>1664556692775</updated>
       <workItem from="1664556694684" duration="2124000" />
       <workItem from="1664613070499" duration="128000" />
-      <workItem from="1664784236267" duration="2164000" />
+      <workItem from="1664784236267" duration="2951000" />
     </task>
     <task id="LOCAL-00001" summary="Loading file content">
       <created>1664613171037</created>
@@ -68,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664613171037</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Loading file content">
+      <created>1664789279989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664789279989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

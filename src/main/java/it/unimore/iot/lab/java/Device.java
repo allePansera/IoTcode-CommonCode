@@ -1,16 +1,18 @@
 package it.unimore.iot.lab.java;
 
 public class Device {
+    private Geolocation geo;
     private String id;
     private String type;
     private String manufacturer;
     private String softwareVersion;
 
-    public Device(String id, String type, String manufacturer, String softwareVersion) {
+    public Device(String id, String type, String manufacturer, String softwareVersion, Geolocation geo) {
         this.id = id;
         this.type = type;
         this.manufacturer = manufacturer;
         this.softwareVersion = softwareVersion;
+        this.geo = geo;
     }
 
     public Device(){}
@@ -45,6 +47,14 @@ public class Device {
 
     public void setSoftwareVersion(String softwareVersion) {
         this.softwareVersion = softwareVersion;
+    }
+
+    public Geolocation getGeo() {
+        return geo;
+    }
+
+    public void setGeo(Geolocation geo) {
+        this.geo = geo;
     }
 
     @Override
