@@ -13,6 +13,8 @@ public class Device {
         this.softwareVersion = softwareVersion;
     }
 
+    public Device(){}
+
     public String getId() {
         return id;
     }
